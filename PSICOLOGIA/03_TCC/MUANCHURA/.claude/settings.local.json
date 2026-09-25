@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import docx; print\\('python-docx available'\\)\")",
+      "Bash(python -c ' *)",
+      "WebSearch",
+      "Bash(python -c \"import docx; print\\('docx OK', docx.__version__\\)\")",
+      "Bash(python /tmp/extract_docx.py '__TRACKED_VAR__/PROTOCOLO MUANCHURA - Revisto e Completo \\(2026\\).docx')",
+      "Bash(cat)",
+      "Bash(python /tmp/inspect_q.py)",
+      "Bash(python /tmp/extract_to_file.py __TRACKED_VAR__/00_Regras_Gerais_e_Validacao.docx __TRACKED_VAR__/p00_regras.txt)",
+      "Bash(python /tmp/extract_to_file.py __TRACKED_VAR__/01_Protocolo_de_Pesquisa.docx __TRACKED_VAR__/p01_protocolo.txt)",
+      "Bash(python /tmp/extract_to_file.py __TRACKED_VAR__/12_Configuracoes_e_Formatacao.docx __TRACKED_VAR__/p12_formatacao.txt)",
+      "Bash(python /tmp/audit.py)",
+      "Bash(python /tmp/inspect2.py)",
+      "Bash(python /tmp/inspect3.py)",
+      "Bash(python *)"
+    ]
+  }
+}
