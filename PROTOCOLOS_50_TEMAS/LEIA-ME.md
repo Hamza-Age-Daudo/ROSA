@@ -62,7 +62,7 @@ abaixo) mais o tema 33.
 | 08 | Automedicação em estudantes da UniLúrio | 9.997 | 55 | sem problemas | erros 0 |
 | 09 | Profilaxia antibiótica em cesarianas, HCN | 9.304 | 54 | sem problemas | erros 0 |
 | 10 | Conformidade no diagnóstico e tratamento da malária | 9.995 | 42 | sem problemas | erros 0 |
-| 33 | Plantas medicinais e interacção com anti-hipertensores, doentes internados, Medicina I/II, HCN | 9.993 | 41 | sem problemas | erros 0 |
+| 33 | Plantas medicinais e interacção com anti-hipertensores, doentes internados, Medicina I/II, HCN | 9.897 | 41 | sem problemas | erros 0 |
 
 Em curso (estado a 20 de Setembro, por confirmar):
 
@@ -109,6 +109,22 @@ Se o mesmo tipo de feedback (uma doença em vez de vários grupos, local
 hospitalar específico em vez de "unidades sanitárias da cidade") vier a
 aplicar-se a outros temas do lote, vale a pena rever previamente com o
 orientador, antes de fechar, para poupar uma reformulação a jusante.
+
+### Tema 33: passe de objectividade (25 de Setembro)
+
+A pedido do utilizador, o texto foi revisto uma vez do princípio ao fim à
+procura de repetições literais (secção 7 do `GUIA_REDACCAO.md`). Cortadas as
+frases que repetiam, palavra por palavra, números já dados antes (os *odds
+ratio* de {lassale2022} repetidos em Introdução, Problema e Metodologia; a
+prevalência da hipertensão de {jessen2018} repetida em Introdução e Revisão;
+a função do IMT repetida em Introdução, Justificativa e Revisão; o inventário
+de {sitoe2024} repetido em Justificativa e Revisão), mantendo em cada caso a
+citação e o número na primeira ocorrência. Corpo de 9.993 para 9.897 palavras;
+nenhuma secção, quadro, apêndice ou referência removidos; `motor.py` continua
+com `PROBLEMAS: nenhum` e `refs.py verificar` com `erros: 0`. A figura do
+esquema conceptual foi também regerada nesta sessão (sem alteração de
+conteúdo) porque o ambiente não tinha a fonte Times New Roman; instalou-se
+uma cópia da Liberation Serif renomeada para produzir o mesmo aspecto.
 
 ## 4. Retomar depois de uma paragem
 

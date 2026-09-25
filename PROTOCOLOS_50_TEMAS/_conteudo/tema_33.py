@@ -257,10 +257,8 @@ INTRODUCAO = [
       "para a malária, o que ilustra a extensão do conhecimento local sobre "
       "plantas {manuel2020}. O Estado reconhece esta realidade: ao abrigo da "
       "Política da Medicina Tradicional, aprovada em 2004, foi criado em "
-      "2010 o Instituto de Medicina Tradicional (IMT), com a função de velar "
-      "pelo uso apropriado e seguro da medicina tradicional e de promover a "
-      "colaboração dos seus praticantes com os programas do Ministério da "
-      "Saúde (MISAU) {misau2010}."),
+      "2010 o Instituto de Medicina Tradicional (IMT), na dependência do "
+      "Ministério da Saúde (MISAU) {misau2010}."),
     P("Na província de Nampula, os praticantes de medicina tradicional "
       "entrevistados junto de cinco centros de saúde declararam usar "
       "sobretudo plantas medicinais e mostraram-se disponíveis para "
@@ -297,9 +295,9 @@ PROBLEMA = [
       "anti-hipertensor, uma pressão descontrolada, uma alteração renal ou "
       "a própria complicação que motivou o internamento pode ser atribuída "
       "apenas a má adesão prévia. As associações já descritas entre o uso "
-      "de medicina tradicional e a hipertensão grave (OR 1,34) e as "
-      "complicações renais (OR 1,57) {lassale2022} tornam este risco "
-      "plausível precisamente no doente internado, que os familiares podem "
+      "de medicina tradicional e a hipertensão grave e as complicações "
+      "renais {lassale2022} tornam este risco plausível precisamente no "
+      "doente internado, que os familiares podem "
       "continuar a expor à planta durante o internamento, por confiarem "
       "nela mais do que no medicamento, o que só é detectado se alguém "
       "perguntar."),
@@ -550,11 +548,10 @@ REVISAO = [
           "tradicional e hipertensão grave ou complicada {lassale2022}, "
           "adaptada ao diagnóstico de admissão disponível no processo."),
         P("A hipertensão é uma causa importante e crescente de doença e de "
-          "internamento em Moçambique. A prevalência nos adultos de 25 a 64 "
-          "anos subiu de 33,1% em 2005 para 38,9% em 2014-2015, e só 44,5% "
-          "dos tratados tinham a pressão controlada {jessen2018}. Num "
-          "hospital urbano do país, a hipertensão foi o diagnóstico mais "
-          "frequente entre as doenças crónicas não transmissíveis vigiadas "
+          "internamento em Moçambique, com a prevalência e o controlo já "
+          "referidos {jessen2018}. Num hospital urbano do país, foi o "
+          "diagnóstico mais frequente entre as doenças crónicas não "
+          "transmissíveis vigiadas "
           "(37,3% de 6.423 casos), e as emergências hipertensivas foram a "
           "principal causa de transferência urgente e de óbito à entrada "
           "entre essas doenças {mocumbi2019a}; num estudo de vigilância em "
@@ -567,11 +564,11 @@ REVISAO = [
           "metodologia."),
     ]),
     ("Flora medicinal e práticas de medicina tradicional em Moçambique", [
-        P("O inventário das plantas medicinais de Moçambique reuniu 731 "
-          "espécies e táxones infra-específicos, de 447 géneros e 120 "
-          "famílias; 590 são indígenas e 87 são exóticas, naturalizadas ou "
-          "cultivadas, e 494 são também usadas como medicinais na África do "
-          "Sul, sobretudo na província vizinha de KwaZulu-Natal {sitoe2024}. "
+        P("O inventário nacional de plantas medicinais, já referido, "
+          "distribui as 731 espécies por 447 géneros e 120 famílias; 590 "
+          "são indígenas e 87 são exóticas, naturalizadas ou cultivadas, e "
+          "494 são também usadas como medicinais na África do Sul, "
+          "sobretudo na província vizinha de KwaZulu-Natal {sitoe2024}. "
           "Esta partilha de espécies e usos com a região sugere que a "
           "literatura sul-africana sobre interacções pode ser útil, mas não "
           "dispensa a confirmação da identidade das plantas usadas em "
@@ -959,9 +956,8 @@ METODOLOGIA = [
           "Clínica do HCN o número aproximado de internamentos por "
           "hipertensão arterial, como diagnóstico principal ou como "
           "comorbilidade relevante, no último ano]. O internamento estuda o "
-          "doente já hospitalizado, presumivelmente mais grave, associação "
-          "já descrita em ambulatório de cardiologia {lassale2022} e onde a "
-          "interacção com o anti-hipertensor tem consequências mais "
+          "doente já hospitalizado e presumivelmente mais grave {lassale2022}, "
+          "em que a interacção com o anti-hipertensor tem consequências mais "
           "imediatas."),
         P("A recolha de dados junto dos doentes internados decorre de 1 de "
           "Março a 30 de Junho de 2027 (quatro meses), com recrutamento "
@@ -1041,9 +1037,8 @@ METODOLOGIA = [
           "serviço de referência central que serve toda a província, "
           "sujeita a confirmação; com este cenário, n<sub>c</sub> = 184. Não "
           "se aplica efeito de desenho por conglomerados, porque os dois "
-          "departamentos são recenseados na totalidade, e não escolhidos "
-          "como amostra entre muitos, pelo que não há inflação da variância "
-          "por agrupamento. Acrescenta-se uma margem de 10% para recusas e "
+          "departamentos são recenseados na totalidade, sem amostragem "
+          "entre vários. Acrescenta-se uma margem de 10% para recusas e "
           "questionários incompletos:"),
         FORMULA("n<sub>f</sub> = 184 / (1 - 0,10) = 204,4, arredondado para "
                 "205"),
@@ -1070,10 +1065,9 @@ METODOLOGIA = [
           "complicação, a diferença de 15 pontos percentuais corresponde a "
           "um OR de 2,30, compatível em ordem de grandeza com as "
           "associações já descritas entre uso de medicina tradicional e "
-          "hipertensão grave (OR 1,34) ou complicada (OR 1,27 a 1,57) "
-          "{lassale2022}, ainda que assumida para fins de planeamento, "
-          "porque nenhum estudo estratifica o uso concomitante pela "
-          "gravidade do internamento. Substituindo:"),
+          "hipertensão grave ou complicada {lassale2022}, assumida para "
+          "fins de planeamento na ausência de estudos que estratifiquem o "
+          "uso concomitante pela gravidade do internamento. Substituindo:"),
         FORMULA("n = [1,96 × √(2 × 0,245 × 0,755) + 0,84 × √(0,1411 + "
                 "0,2176)]<sup>2</sup> / 0,15<sup>2</sup> = (1,1921 + "
                 "0,5031)<sup>2</sup> / 0,0225 = 127,7"),
@@ -1388,10 +1382,9 @@ METODOLOGIA = [
           "tiazídico, inibidor da enzima de conversão da angiotensina, "
           "antagonista dos receptores da angiotensina II, bloqueador dos "
           "canais de cálcio, betabloqueador) e termos de interacção, "
-          "farmacocinética e farmacodinâmica, à semelhança dos estudos já "
-          "encontrados para o hibisco com o captopril e com a amlodipina "
-          "{nurfaradilla2020,alam2021}; e pelo menos uma base de dados de "
-          "interacções de acesso livre. O [[quadro:categorias]] define as "
+          "farmacocinética e farmacodinâmica {nurfaradilla2020,alam2021}; e "
+          "pelo menos uma base de dados de interacções de acesso livre. O "
+          "[[quadro:categorias]] define as "
           "categorias, fixadas antes da recolha."),
         QUADRO("categorias",
                "Categorias do potencial de interacção entre planta e "
