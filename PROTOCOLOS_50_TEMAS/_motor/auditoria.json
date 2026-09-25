@@ -1,0 +1,127 @@
+[
+ {
+  "numero": 1,
+  "motor_ok": true,
+  "palavras": "9735",
+  "referencias": "54",
+  "orcamento": "109,450.00",
+  "docx": "01_Farmacia_Clinica\\PROTOCOLO_T01_Adesao_TARV_Factores_Associados_Adultos_HCN.docx",
+  "problemas": [],
+  "avisos": 6
+ },
+ {
+  "numero": 2,
+  "motor_ok": true,
+  "palavras": "9483",
+  "referencias": "52",
+  "orcamento": "126,885.00",
+  "docx": "01_Farmacia_Clinica\\PROTOCOLO_T02_Tecnica_Conservacao_Insulina_HCN.docx",
+  "problemas": [],
+  "avisos": 6
+ },
+ {
+  "numero": 3,
+  "motor_ok": false,
+  "palavras": "6240",
+  "referencias": "33",
+  "orcamento": "3,300.00",
+  "docx": "01_Farmacia_Clinica\\PROTOCOLO_T03_Controlo_PA_Adesao_Anti_Hipertensora_Nampula.docx",
+  "problemas": [
+   "Resumo com 2 palavras (norma: 250 a 300).",
+   "Abstract com 3 palavras (norma: 250 a 300).",
+   "Referências em FONTES nunca citadas: ['helsinki2025', 'peduzzi1996', 'tamhane2016', 'unger2020', 'vonelm2007']",
+   "Corpo (secções 1 a 12) com 6240 palavras: abaixo do mínimo de 6.500 para um protocolo completo."
+  ],
+  "avisos": 1
+ },
+ {
+  "numero": 4,
+  "motor_ok": true,
+  "palavras": "9299",
+  "referencias": "49",
+  "orcamento": "137,390.00",
+  "docx": "01_Farmacia_Clinica\\PROTOCOLO_T04_PRM_Enfermaria_Medicina_HCN_PCNE.docx",
+  "problemas": [],
+  "avisos": 6
+ },
+ {
+  "numero": 5,
+  "motor_ok": true,
+  "palavras": "9799",
+  "referencias": "49",
+  "orcamento": "131,890.00",
+  "docx": "01_Farmacia_Clinica\\PROTOCOLO_T05_Adesao_Interrupcao_Tratamento_Tuberculose_Nampula.docx",
+  "problemas": [],
+  "avisos": 5
+ },
+ {
+  "numero": 6,
+  "motor_ok": true,
+  "palavras": "9919",
+  "referencias": "55",
+  "orcamento": "104,225.00",
+  "docx": "02_Farmacoepidemiologia_URM\\PROTOCOLO_T06_Padrao_Prescricao_Indicadores_OMS_Centros_Saude_Nampula.docx",
+  "problemas": [],
+  "avisos": 5
+ },
+ {
+  "numero": 7,
+  "motor_ok": true,
+  "palavras": "9916",
+  "referencias": "51",
+  "orcamento": "87,725.00",
+  "docx": "02_Farmacoepidemiologia_URM\\PROTOCOLO_T07_Prescricao_Antibioticos_Menores_Cinco_Anos_Nampula.docx",
+  "problemas": [],
+  "avisos": 6
+ },
+ {
+  "numero": 8,
+  "motor_ok": true,
+  "palavras": "9997",
+  "referencias": "55",
+  "orcamento": "114,290.00",
+  "docx": "02_Farmacoepidemiologia_URM\\PROTOCOLO_T08_Automedicacao_Estudantes_UniLurio_Nampula.docx",
+  "problemas": [],
+  "avisos": 5
+ },
+ {
+  "numero": 9,
+  "motor_ok": true,
+  "palavras": "9304",
+  "referencias": "54",
+  "orcamento": "87,934.00",
+  "docx": "02_Farmacoepidemiologia_URM\\PROTOCOLO_T09_Profilaxia_Antibiotica_Cesarianas_HCN_Nampula.docx",
+  "problemas": [],
+  "avisos": 7
+ },
+ {
+  "numero": 10,
+  "motor_ok": true,
+  "palavras": "9995",
+  "referencias": "42",
+  "orcamento": "101,805.00",
+  "docx": "02_Farmacoepidemiologia_URM\\PROTOCOLO_T10_Conformidade_Diagnostico_Tratamento_Malaria_Centros_Saude_Nampula.docx",
+  "problemas": [],
+  "avisos": 9
+ },
+ {
+  "numero": 26,
+  "motor_ok": false,
+  "palavras": null,
+  "referencias": null,
+  "orcamento": null,
+  "docx": null,
+  "problemas": [],
+  "avisos": 0
+ },
+ {
+  "numero": 33,
+  "motor_ok": true,
+  "palavras": "9857",
+  "referencias": "47",
+  "orcamento": "141,482.00",
+  "docx": "07_Farmacognosia_Plantas_Medicinais\\PROTOCOLO_T33_Plantas_Medicinais_Concomitantes_Doentes_Cronicos_Nampula.docx",
+  "problemas": [],
+  "avisos": 7
+ }
+]

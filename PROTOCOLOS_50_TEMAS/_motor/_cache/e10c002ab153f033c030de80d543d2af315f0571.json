@@ -1,0 +1,1 @@
+{"header": {"type": "esearch", "version": "0.3"}, "esearchresult": {"count": "2", "retmax": "2", "retstart": "0", "idlist": ["30281604", "28242070"], "translationset": [], "querytranslation": "\"adverse events following immuni*\"[Title/Abstract] AND (\"Mozambique\"[Title/Abstract] OR \"Mocambique\"[All Fields]) AND 2016/01/01:2026/12/31[Date - Publication]"}}

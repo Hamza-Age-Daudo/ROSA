@@ -1,0 +1,302 @@
+[
+ {
+  "numero": 1,
+  "categoria": "Farmácia Clínica e Cuidados Farmacêuticos",
+  "titulo_proposto": "Adesão à terapêutica anti-retroviral e factores associados em adultos seguidos no Hospital Central de Nampula",
+  "descricao": "Estudo transversal com questionário presencial e contagem de comprimidos no acto do levantamento da medicação. Permite estimar a proporção de doentes com boa adesão e relacioná-la com a distância à unidade sanitária, o estigma, os efeitos adversos e o apoio familiar, servindo de base para propor sessões de aconselhamento farmacêutico."
+ },
+ {
+  "numero": 2,
+  "categoria": "Farmácia Clínica e Cuidados Farmacêuticos",
+  "titulo_proposto": "Técnica de administração e conservação domiciliária da insulina em doentes diabéticos seguidos no Hospital Central de Nampula",
+  "descricao": "Observação directa da auto-administração com uma lista de verificação (preparação da dose, local e rotação das injecções, reutilização de agulhas) e entrevista sobre a conservação da insulina em casa, muitas vezes sem frigorífico. Os erros detectados orientam a elaboração de materiais de educação ao doente."
+ },
+ {
+  "numero": 3,
+  "categoria": "Farmácia Clínica e Cuidados Farmacêuticos",
+  "titulo_proposto": "Controlo da pressão arterial e adesão à terapêutica anti-hipertensora em doentes seguidos em consulta externa na cidade de Nampula",
+  "descricao": "Estudo transversal que junta a medição da pressão arterial com esfigmomanómetro, a revisão das receitas e um questionário de adesão. Permite verificar que proporção de doentes atinge as metas tensionais e que factores (número de medicamentos, custo, crenças sobre a doença, esquecimento) se associam ao mau controlo."
+ },
+ {
+  "numero": 4,
+  "categoria": "Farmácia Clínica e Cuidados Farmacêuticos",
+  "titulo_proposto": "Problemas relacionados com medicamentos em doentes internados na enfermaria de Medicina do Hospital Central de Nampula",
+  "descricao": "Estudo prospectivo com revisão diária das folhas de prescrição e dos processos clínicos em papel. Os problemas encontrados (dose inadequada, duplicação terapêutica, interacção, indicação não tratada) são classificados segundo a classificação da Pharmaceutical Care Network Europe (PCNE), mostrando o contributo potencial do farmacêutico na equipa clínica."
+ },
+ {
+  "numero": 5,
+  "categoria": "Farmácia Clínica e Cuidados Farmacêuticos",
+  "titulo_proposto": "Adesão ao tratamento da tuberculose e factores associados à interrupção do tratamento em centros de saúde da cidade de Nampula",
+  "descricao": "Estudo misto que combina a análise dos livros de registo e das fichas de tratamento da tuberculose com entrevistas a doentes em tratamento. Permite quantificar as interrupções e perceber as suas causas, como a melhoria precoce dos sintomas, os efeitos adversos, a falta de alimentos ou os custos de transporte."
+ },
+ {
+  "numero": 6,
+  "categoria": "Farmacoepidemiologia e Uso Racional de Medicamentos",
+  "titulo_proposto": "Padrão de prescrição segundo os indicadores da OMS em centros de saúde da cidade de Nampula",
+  "descricao": "Estudo transversal retrospectivo em receitas e livros de registo de consultas, com os indicadores de prescrição da OMS e da INRUD: número médio de medicamentos por consulta e percentagens de consultas com antibiótico e com injectável, de medicamentos prescritos pelo nome genérico e de medicamentos da lista nacional de medicamentos essenciais. É um tema clássico, de baixo custo e com resultados directamente comparáveis."
+ },
+ {
+  "numero": 7,
+  "categoria": "Farmacoepidemiologia e Uso Racional de Medicamentos",
+  "titulo_proposto": "Prescrição de antibióticos em crianças menores de cinco anos atendidas em consulta externa na cidade de Nampula",
+  "descricao": "Análise documental das receitas e dos registos de consulta para descrever os antibióticos prescritos, as indicações (infecções respiratórias, diarreia, febre) e a adequação às normas nacionais. Os antibióticos podem ser agrupados segundo a classificação AWaRe da OMS (Acesso, Vigilância e Reserva), o que dá uma leitura directa do risco de resistência."
+ },
+ {
+  "numero": 8,
+  "categoria": "Farmacoepidemiologia e Uso Racional de Medicamentos",
+  "titulo_proposto": "Prevalência e determinantes da automedicação entre estudantes da Universidade Lúrio em Nampula",
+  "descricao": "Inquérito por questionário em papel a estudantes de diferentes cursos, para conhecer a frequência da automedicação, os medicamentos mais usados (analgésicos, antibióticos, antimaláricos), as fontes de obtenção e os motivos. A comparação entre cursos da área da saúde e de outras áreas acrescenta interesse ao estudo."
+ },
+ {
+  "numero": 9,
+  "categoria": "Farmacoepidemiologia e Uso Racional de Medicamentos",
+  "titulo_proposto": "Adequação da profilaxia antibiótica em cesarianas realizadas no Hospital Central de Nampula",
+  "descricao": "Revisão de processos clínicos de mulheres submetidas a cesariana, avaliando o antibiótico escolhido, a dose, o momento da administração em relação à incisão e a duração da profilaxia face ao protocolo em vigor. O prolongamento desnecessário da profilaxia contribui para o uso excessivo de antibióticos em meio hospitalar."
+ },
+ {
+  "numero": 10,
+  "categoria": "Farmacoepidemiologia e Uso Racional de Medicamentos",
+  "titulo_proposto": "Conformidade do diagnóstico e do tratamento da malária não complicada com as normas nacionais em centros de saúde da cidade de Nampula",
+  "descricao": "Estudo documental nos livros de registo de consulta e de laboratório, verificando se o tratamento antimalárico foi precedido de confirmação por teste de diagnóstico rápido ou microscopia e se a dose de arteméter-lumefantrina corresponde ao peso ou à idade do doente. Revela tanto o sobretratamento de febres sem malária como os erros de dosagem."
+ },
+ {
+  "numero": 11,
+  "categoria": "Farmacovigilância e Segurança do Medicamento",
+  "titulo_proposto": "Conhecimentos, atitudes e práticas dos profissionais de saúde sobre farmacovigilância em unidades sanitárias da cidade de Nampula",
+  "descricao": "Inquérito de conhecimentos, atitudes e práticas (CAP) a médicos, enfermeiros e técnicos de farmácia sobre o conceito de reacção adversa, o uso da ficha de notificação e as barreiras à notificação (falta de tempo, desconhecimento da ficha, receio de consequências). Os resultados fundamentam acções de formação e a simplificação do circuito de notificação."
+ },
+ {
+  "numero": 12,
+  "categoria": "Farmacovigilância e Segurança do Medicamento",
+  "titulo_proposto": "Reacções adversas aos medicamentos antituberculosos em doentes em tratamento na cidade de Nampula",
+  "descricao": "Estudo de coorte retrospectivo nas fichas de tratamento, complementado por entrevista aos doentes ainda em seguimento, para descrever a frequência de hepatotoxicidade, neuropatia periférica, reacções cutâneas e perturbações gastrointestinais. Permite analisar a relação com a co-infecção pelo HIV, a idade e o estado nutricional."
+ },
+ {
+  "numero": 13,
+  "categoria": "Farmacovigilância e Segurança do Medicamento",
+  "titulo_proposto": "Ganho de peso e alterações da pressão arterial em adultos com esquemas contendo dolutegravir no Hospital Central de Nampula",
+  "descricao": "Medição do peso, da altura, do perímetro abdominal e da pressão arterial, com comparação face aos valores registados no processo clínico no início do esquema. O ganho de peso associado ao dolutegravir está descrito na literatura internacional e interessa conhecer a sua magnitude na população local."
+ },
+ {
+  "numero": 14,
+  "categoria": "Farmacovigilância e Segurança do Medicamento",
+  "titulo_proposto": "Erros de prescrição em crianças internadas na enfermaria de Pediatria do Hospital Central de Nampula",
+  "descricao": "Revisão das folhas de prescrição em papel para identificar erros na dose calculada por peso, na frequência, na via e na duração, a omissão do peso e a ilegibilidade. As crianças são particularmente vulneráveis a erros de dose e o estudo pode resultar numa tabela de doses pediátricas de consulta rápida para a enfermaria."
+ },
+ {
+  "numero": 15,
+  "categoria": "Farmacovigilância e Segurança do Medicamento",
+  "titulo_proposto": "Eventos supostamente atribuíveis à vacinação ou imunização (ESAVI): conhecimento das mães e práticas de notificação em centros de saúde de Nampula",
+  "descricao": "Questionário às mães ou cuidadores nas consultas de vacinação e ao pessoal de enfermagem sobre os eventos esperados após as vacinas, os sinais de alarme e o circuito de notificação. Contribui para a segurança das vacinas e para a confiança das famílias no programa de vacinação."
+ },
+ {
+  "numero": 16,
+  "categoria": "Farmácia Hospitalar e Gestão Farmacêutica",
+  "titulo_proposto": "Disponibilidade de medicamentos essenciais e rupturas de stock em unidades sanitárias da cidade de Nampula",
+  "descricao": "Verificação física, nas prateleiras e nas fichas de stock, de uma lista de medicamentos traçadores, seguindo a metodologia de inquérito da OMS e da Health Action International. Permite calcular a disponibilidade no dia da visita e a duração das rupturas nos meses anteriores, e discutir as suas causas."
+ },
+ {
+  "numero": 17,
+  "categoria": "Farmácia Hospitalar e Gestão Farmacêutica",
+  "titulo_proposto": "Condições de armazenamento de medicamentos nas farmácias e depósitos das unidades sanitárias da cidade de Nampula",
+  "descricao": "Avaliação com lista de verificação baseada nas boas práticas de armazenamento: temperatura e humidade (termómetro e higrómetro), ventilação, protecção da luz solar, arrumação pelo princípio de o primeiro a expirar ser o primeiro a sair (FEFO), controlo de pragas e separação dos produtos expirados. Resulta num diagnóstico com recomendações concretas para cada unidade."
+ },
+ {
+  "numero": 18,
+  "categoria": "Farmácia Hospitalar e Gestão Farmacêutica",
+  "titulo_proposto": "Medicamentos expirados em unidades sanitárias de Nampula: quantificação, causas e práticas de eliminação",
+  "descricao": "Estudo documental nos registos de inventário e de abate, complementado por entrevistas aos responsáveis das farmácias. Estima a quantidade e o valor dos medicamentos perdidos por expiração, identifica as causas (requisições acima do consumo, doações com prazo curto) e verifica se a eliminação segue as normas ambientais."
+ },
+ {
+  "numero": 19,
+  "categoria": "Farmácia Hospitalar e Gestão Farmacêutica",
+  "titulo_proposto": "Indicadores de cuidados ao doente na farmácia de ambulatório do Hospital Central de Nampula",
+  "descricao": "Aplicação dos indicadores da OMS de cuidados ao doente: tempo médio de dispensa medido com cronómetro, percentagem de medicamentos efectivamente dispensados, rotulagem adequada das embalagens e conhecimento do doente sobre a posologia. Dá uma imagem objectiva da qualidade do serviço e dos pontos de estrangulamento no atendimento."
+ },
+ {
+  "numero": 20,
+  "categoria": "Farmácia Hospitalar e Gestão Farmacêutica",
+  "titulo_proposto": "Cadeia de frio de vacinas e medicamentos termossensíveis em centros de saúde da cidade de Nampula",
+  "descricao": "Verificação dos registos de temperatura em papel, do funcionamento dos frigoríficos e das práticas de conservação, com realização do teste de agitação para detectar a congelação de vacinas adsorvidas. Inclui um questionário ao pessoal responsável sobre a conduta perante falhas de energia."
+ },
+ {
+  "numero": 21,
+  "categoria": "Farmácia Comunitária e Saúde Pública",
+  "titulo_proposto": "Dispensa de antibióticos sem receita médica em farmácias privadas da cidade de Nampula: estudo com cliente simulado",
+  "descricao": "Visitas de um cliente simulado treinado, que apresenta um cenário padronizado (por exemplo, criança com diarreia aquosa ou adulto com dor de garganta), registando-se depois num formulário em papel se foi dispensado antibiótico sem receita e que aconselhamento foi dado. É um método muito utilizado internacionalmente e exige justificação ética específica."
+ },
+ {
+  "numero": 22,
+  "categoria": "Farmácia Comunitária e Saúde Pública",
+  "titulo_proposto": "Venda informal de medicamentos em mercados da cidade de Nampula: produtos, condições de conservação e perfil dos vendedores",
+  "descricao": "Estudo observacional com entrevista aos vendedores e registo dos medicamentos expostos, das condições de exposição (sol, calor, poeira, embalagens abertas) e da informação dada aos compradores. Requer cuidados com a segurança do investigador e uma abordagem não punitiva, e documenta um problema com impacto directo na saúde pública."
+ },
+ {
+  "numero": 23,
+  "categoria": "Farmácia Comunitária e Saúde Pública",
+  "titulo_proposto": "Conhecimentos e práticas das mães sobre o tratamento da diarreia infantil com sais de reidratação oral e zinco",
+  "descricao": "Questionário aplicado nas consultas da criança, completado pela observação da preparação da solução de reidratação oral pela mãe (volume de água, diluição e conservação). A diarreia continua a ser uma causa importante de doença infantil e os surtos de cólera registados na província de Nampula tornam o tema particularmente pertinente."
+ },
+ {
+  "numero": 24,
+  "categoria": "Farmácia Comunitária e Saúde Pública",
+  "titulo_proposto": "Armazenamento doméstico e eliminação de medicamentos não utilizados em agregados familiares da cidade de Nampula",
+  "descricao": "Inquérito domiciliário com inspecção, mediante consentimento, dos medicamentos guardados em casa: quantidade, prazos de validade, condições de conservação e presença de sobras de antibióticos. Descreve também a forma de eliminação (lixo comum, latrina, queima), ligando o uso racional à protecção ambiental."
+ },
+ {
+  "numero": 25,
+  "categoria": "Farmácia Comunitária e Saúde Pública",
+  "titulo_proposto": "Conhecimento e uso da contracepção de emergência entre estudantes universitárias na cidade de Nampula",
+  "descricao": "Inquérito anónimo em papel sobre o mecanismo de acção, o prazo de eficácia e os locais de obtenção da contracepção de emergência, bem como sobre a frequência de uso e as fontes de informação. Ajuda a orientar o aconselhamento nas farmácias e os serviços de saúde sexual e reprodutiva dirigidos a jovens."
+ },
+ {
+  "numero": 26,
+  "categoria": "Controlo de Qualidade e Análise de Medicamentos",
+  "titulo_proposto": "Avaliação da qualidade de diferentes marcas de comprimidos de paracetamol comercializadas em farmácias da cidade de Nampula",
+  "descricao": "Aplicação de ensaios farmacopeicos a várias marcas: uniformidade de massa, dureza, friabilidade, tempo de desagregação e doseamento do princípio activo. Permite verificar se as marcas mais baratas cumprem as especificações e discutir a intercambialidade entre produtos."
+ },
+ {
+  "numero": 27,
+  "categoria": "Controlo de Qualidade e Análise de Medicamentos",
+  "titulo_proposto": "Detecção de medicamentos de qualidade inferior e falsificados: amoxicilina adquirida em farmácias e no mercado informal de Nampula",
+  "descricao": "Inspecção visual das embalagens e das cápsulas ou comprimidos, seguida de identificação e estimativa semiquantitativa do teor por cromatografia em camada fina e de ensaio de desagregação, segundo a metodologia Minilab da GPHF, concebida para contextos com poucos recursos. A comparação entre os dois circuitos de venda torna os resultados úteis para a autoridade reguladora."
+ },
+ {
+  "numero": 28,
+  "categoria": "Controlo de Qualidade e Análise de Medicamentos",
+  "titulo_proposto": "Determinação do teor de iodo no sal de cozinha comercializado na cidade de Nampula por titulação iodométrica",
+  "descricao": "Colheita de amostras de sal em mercados e lojas e doseamento do iodo por titulação com tiossulfato de sódio, comparando os resultados com o intervalo estabelecido para o sal iodado. Liga a análise química à prevenção das perturbações por carência de iodo, com um custo reduzido de reagentes."
+ },
+ {
+  "numero": 29,
+  "categoria": "Controlo de Qualidade e Análise de Medicamentos",
+  "titulo_proposto": "Estabilidade de suspensões orais de amoxicilina reconstituídas e conservadas em condições domésticas",
+  "descricao": "Reconstituição de suspensões de várias marcas e conservação à temperatura ambiente e em frigorífico, com avaliação do aspecto, do pH e do teor de amoxicilina ao longo do período de uso. Muitas famílias não dispõem de frigorífico, pelo que o estudo responde a uma questão prática do aconselhamento ao balcão."
+ },
+ {
+  "numero": 30,
+  "categoria": "Controlo de Qualidade e Análise de Medicamentos",
+  "titulo_proposto": "Teor de cloro activo em soluções de hipoclorito de sódio comercializadas para tratamento doméstico da água na cidade de Nampula",
+  "descricao": "Doseamento do cloro activo por titulação iodométrica em lixívias e soluções para tratamento de água, com comparação face ao valor declarado no rótulo e avaliação da perda de teor após a abertura. Tem relevância directa para a prevenção da cólera e de outras doenças de transmissão hídrica."
+ },
+ {
+  "numero": 31,
+  "categoria": "Farmacognosia e Plantas Medicinais",
+  "titulo_proposto": "Levantamento etnobotânico das plantas medicinais utilizadas no tratamento da malária em comunidades da província de Nampula",
+  "descricao": "Entrevistas semi-estruturadas a praticantes de medicina tradicional e a vendedores de plantas, registando as espécies, as partes usadas, os modos de preparação e as doses. As amostras recolhidas são identificadas num herbário e as espécies mais citadas são ordenadas pela frequência de citação, o que cria uma base para estudos farmacológicos posteriores."
+ },
+ {
+  "numero": 32,
+  "categoria": "Farmacognosia e Plantas Medicinais",
+  "titulo_proposto": "Rastreio fitoquímico e actividade antibacteriana in vitro de extractos de folhas de Moringa oleifera",
+  "descricao": "Preparação de extractos aquosos e etanólicos, pesquisa de alcalóides, flavonóides, taninos, saponinas e esteróides por reacções de coloração e precipitação, e avaliação da actividade antibacteriana pelo método de difusão em ágar contra Staphylococcus aureus e Escherichia coli. A moringa é muito consumida na região, o que dá relevância prática aos resultados."
+ },
+ {
+  "numero": 33,
+  "categoria": "Farmacognosia e Plantas Medicinais",
+  "titulo_proposto": "Uso concomitante de plantas medicinais e medicamentos convencionais em doentes com doenças crónicas na cidade de Nampula",
+  "descricao": "Inquérito a doentes hipertensos, diabéticos ou em tratamento anti-retroviral sobre o uso de plantas e preparações tradicionais, os motivos desse uso e a sua comunicação aos profissionais de saúde. Identifica combinações com potencial de interacção e a necessidade de incluir a pergunta sobre medicina tradicional na anamnese farmacêutica."
+ },
+ {
+  "numero": 34,
+  "categoria": "Farmacognosia e Plantas Medicinais",
+  "titulo_proposto": "Controlo de qualidade de drogas vegetais comercializadas em mercados da cidade de Nampula",
+  "descricao": "Avaliação farmacognóstica de amostras de plantas secas vendidas nos mercados: identificação macroscópica e microscópica, teor de humidade, cinzas totais e insolúveis em ácido e percentagem de matéria estranha, segundo métodos de farmacopeia e da OMS. Mostra se o que é vendido corresponde à planta anunciada e se está em condições de uso."
+ },
+ {
+  "numero": 35,
+  "categoria": "Farmacognosia e Plantas Medicinais",
+  "titulo_proposto": "Actividade larvicida de extractos de plantas locais sobre larvas de mosquitos vectores da malária",
+  "descricao": "Preparação de extractos de plantas escolhidas a partir do uso tradicional e realização de ensaios larvicidas segundo o protocolo padronizado da OMS, com registo da mortalidade em diferentes concentrações. Exige colaboração com uma equipa de entomologia para a obtenção e identificação das larvas, e liga a farmacognosia ao controlo vectorial."
+ },
+ {
+  "numero": 36,
+  "categoria": "Tecnologia Farmacêutica e Formulação",
+  "titulo_proposto": "Obtenção e caracterização do amido de mandioca como excipiente em comprimidos de paracetamol",
+  "descricao": "Extracção do amido de mandioca produzida na província, caracterização (humidade, pH, cinzas, capacidade de intumescimento, fluidez pelo ângulo de repouso e pelo índice de Carr) e comparação do seu desempenho como aglutinante ou desagregante com o amido de milho, em comprimidos preparados por granulação húmida. Valoriza um recurso agrícola local."
+ },
+ {
+  "numero": 37,
+  "categoria": "Tecnologia Farmacêutica e Formulação",
+  "titulo_proposto": "Aproveitamento do pseudofruto do caju na formulação de um xarope e determinação do teor de vitamina C",
+  "descricao": "Obtenção do sumo do pseudofruto do caju, em grande parte desperdiçado após a colheita da castanha, formulação de um xarope e doseamento do ácido ascórbico por titulação com 2,6-diclorofenolindofenol ao longo do armazenamento. Nampula é uma das principais províncias produtoras de caju, o que dá ao tema interesse económico além do farmacêutico."
+ },
+ {
+  "numero": 38,
+  "categoria": "Tecnologia Farmacêutica e Formulação",
+  "titulo_proposto": "Preparação e controlo de qualidade de solução anti-séptica de base alcoólica para as mãos segundo as formulações da OMS",
+  "descricao": "Produção em pequena escala das formulações recomendadas pela OMS (à base de etanol ou de isopropanol, com glicerol e peróxido de hidrogénio), verificação do teor alcoólico com alcoómetro e avaliação da eficácia por cultura de amostras das mãos antes e depois da aplicação. Pode servir de modelo para a produção local em farmácia hospitalar."
+ },
+ {
+  "numero": 39,
+  "categoria": "Tecnologia Farmacêutica e Formulação",
+  "titulo_proposto": "Preparação extemporânea de suspensões orais pediátricas a partir de comprimidos e avaliação da sua estabilidade",
+  "descricao": "Escolha de um medicamento sem forma pediátrica disponível no hospital, preparação de uma suspensão a partir dos comprimidos com veículos simples e acessíveis, e avaliação do aspecto, da ressuspensão, do pH e do teor ao longo do tempo. Responde a uma dificuldade real das enfermarias de pediatria, onde os comprimidos são muitas vezes fraccionados sem padronização."
+ },
+ {
+  "numero": 40,
+  "categoria": "Tecnologia Farmacêutica e Formulação",
+  "titulo_proposto": "Caracterização físico-química do óleo de coco de produção artesanal da província de Nampula e sua utilização como base de pomada",
+  "descricao": "Determinação dos índices de acidez, de saponificação, de iodo e de peróxidos por métodos titulométricos, seguida da preparação de uma pomada e da avaliação do pH, da homogeneidade, da espalhabilidade e da estabilidade a diferentes temperaturas. Permite avaliar se um produto local pode substituir bases importadas."
+ },
+ {
+  "numero": 41,
+  "categoria": "Microbiologia Farmacêutica e Resistência Antimicrobiana",
+  "titulo_proposto": "Contaminação microbiológica de soluções anti-sépticas e colírios multidose em uso nas enfermarias do Hospital Central de Nampula",
+  "descricao": "Colheita de amostras de frascos em uso (iodopovidona, clorexidina, álcool, colírios) e cultura em meios apropriados, relacionando a contaminação com o tempo decorrido desde a abertura, o tipo de frasco e as práticas de reutilização. Os resultados fundamentam normas simples, como a rotulagem com a data de abertura e prazos de uso."
+ },
+ {
+  "numero": 42,
+  "categoria": "Microbiologia Farmacêutica e Resistência Antimicrobiana",
+  "titulo_proposto": "Qualidade microbiológica de medicamentos líquidos orais não estéreis comercializados na cidade de Nampula",
+  "descricao": "Contagem de microrganismos aeróbios totais e de bolores e leveduras e pesquisa de microrganismos específicos, como Escherichia coli, segundo os limites farmacopeicos, em xaropes e suspensões adquiridos em farmácias e no mercado informal. Relaciona a contaminação com a origem do produto e as condições de venda."
+ },
+ {
+  "numero": 43,
+  "categoria": "Microbiologia Farmacêutica e Resistência Antimicrobiana",
+  "titulo_proposto": "Perfil de sensibilidade aos antibióticos de bactérias isoladas em uroculturas no laboratório do Hospital Central de Nampula",
+  "descricao": "Estudo retrospectivo nos livros de registo do laboratório de microbiologia, descrevendo as bactérias mais isoladas e as suas taxas de resistência aos antibióticos usados empiricamente. Os resultados podem apoiar a revisão do tratamento empírico das infecções urinárias no hospital."
+ },
+ {
+  "numero": 44,
+  "categoria": "Microbiologia Farmacêutica e Resistência Antimicrobiana",
+  "titulo_proposto": "Conhecimentos, atitudes e práticas sobre resistência antimicrobiana entre estudantes de ciências da saúde da Universidade Lúrio",
+  "descricao": "Inquérito CAP em papel aos estudantes dos vários cursos da área da saúde, sobre o conceito de resistência, o uso correcto de antibióticos e as práticas pessoais, como guardar sobras ou interromper o tratamento. Identifica lacunas no ensino e permite comparar os anos iniciais com os finais."
+ },
+ {
+  "numero": 45,
+  "categoria": "Microbiologia Farmacêutica e Resistência Antimicrobiana",
+  "titulo_proposto": "Contaminação microbiana dos tabuleiros de contagem de comprimidos e das superfícies de dispensa em farmácias de unidades sanitárias de Nampula",
+  "descricao": "Colheita com zaragatoas estéreis nos tabuleiros de contagem, espátulas e balcões, antes e depois da limpeza, com cultura e identificação presuntiva dos microrganismos. Avalia o risco de contaminação cruzada na dispensa de comprimidos a granel e propõe um procedimento de limpeza padronizado."
+ },
+ {
+  "numero": 46,
+  "categoria": "Toxicologia, Cosmética e Regulamentação Farmacêutica",
+  "titulo_proposto": "Uso de cremes clareadores de pele e pesquisa de hidroquinona e mercúrio em produtos comercializados na cidade de Nampula",
+  "descricao": "Inquérito aos utilizadores sobre motivos, duração de uso e efeitos indesejáveis, combinado com a análise de amostras por reacções químicas qualitativas e cromatografia em camada fina e com a verificação da rotulagem. Estes produtos circulam muitas vezes fora do circuito regulado e podem conter substâncias proibidas ou em concentração acima do permitido."
+ },
+ {
+  "numero": 47,
+  "categoria": "Toxicologia, Cosmética e Regulamentação Farmacêutica",
+  "titulo_proposto": "Conformidade da rotulagem e dos folhetos informativos de medicamentos comercializados em farmácias da cidade de Nampula com os requisitos regulamentares",
+  "descricao": "Análise de uma amostra de embalagens com lista de verificação baseada na legislação nacional: informação em língua portuguesa, número de registo, lote, prazo de validade, composição e condições de conservação. Permite quantificar as falhas e relacioná-las com o país de origem e o tipo de medicamento."
+ },
+ {
+  "numero": 48,
+  "categoria": "Toxicologia, Cosmética e Regulamentação Farmacêutica",
+  "titulo_proposto": "Intoxicações agudas atendidas no Banco de Socorros do Hospital Central de Nampula: agentes envolvidos e perfil das vítimas",
+  "descricao": "Estudo retrospectivo nos livros de registo e processos clínicos, descrevendo os agentes (medicamentos, pesticidas, petróleo de iluminação e outros produtos domésticos, plantas e preparações tradicionais, álcool), a intencionalidade, a idade e a evolução clínica. Os resultados orientam a prevenção e a preparação do hospital em antídotos."
+ },
+ {
+  "numero": 49,
+  "categoria": "Toxicologia, Cosmética e Regulamentação Farmacêutica",
+  "titulo_proposto": "Uso não médico de medicamentos psicoactivos entre estudantes universitários na cidade de Nampula",
+  "descricao": "Inquérito anónimo, preenchido pelo próprio estudante, sobre o uso sem prescrição de analgésicos opióides como o tramadol, de benzodiazepinas, de xaropes com codeína e de estimulantes, incluindo o motivo (estudo, sono, lazer) e a forma de obtenção. Exige cuidados éticos reforçados na confidencialidade e aborda um problema emergente descrito em vários países africanos."
+ },
+ {
+  "numero": 50,
+  "categoria": "Toxicologia, Cosmética e Regulamentação Farmacêutica",
+  "titulo_proposto": "Cumprimento das boas práticas de farmácia e dos requisitos de funcionamento em farmácias privadas da cidade de Nampula",
+  "descricao": "Visitas com lista de verificação baseada nas boas práticas de farmácia da OMS e da Federação Internacional Farmacêutica e na legislação nacional: presença do responsável técnico, condições das instalações, arrumação, registo de psicotrópicos e estupefacientes e qualidade do aconselhamento. Produz um retrato do sector privado útil para a inspecção farmacêutica."
+ }
+]

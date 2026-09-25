@@ -1,0 +1,1 @@
+{"header": {"type": "esearch", "version": "0.3"}, "esearchresult": {"count": "6", "retmax": "6", "retstart": "0", "idlist": ["36915061", "34493520", "40617089", "32268901", "32797101", "42650695"], "translationset": [], "querytranslation": "\"pharmacovigilance\"[Title/Abstract] AND \"Mozambique\"[Title/Abstract] AND 2016/01/01:2026/12/31[Date - Publication]"}}

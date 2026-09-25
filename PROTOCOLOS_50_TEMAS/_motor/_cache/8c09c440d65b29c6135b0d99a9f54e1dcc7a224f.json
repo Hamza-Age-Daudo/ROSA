@@ -1,0 +1,1 @@
+{"header": {"type": "esearch", "version": "0.3"}, "esearchresult": {"count": "2", "retmax": "2", "retstart": "0", "idlist": ["25896383", "27257809"], "translationset": [], "querytranslation": "\"vaccine hesitancy\"[Title] AND (\"definition\"[Title/Abstract] OR \"SAGE\"[Title/Abstract]) AND \"scope\"[Title/Abstract] AND 2015/01/01:2026/12/31[Date - Publication]"}}
